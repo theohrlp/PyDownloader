@@ -1,2 +1,2 @@
 # PyDownloader
-## Small Script to download youtube videos
+## Script to download youtube videos
